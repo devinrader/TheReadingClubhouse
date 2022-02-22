@@ -76,7 +76,8 @@ body {
 }
 
 .footer{
-   padding: 50px;
+  padding: 50px;
+  font-size: 10px;
 }
 
 .footer .footer_menu{
