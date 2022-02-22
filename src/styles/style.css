@@ -83,7 +83,7 @@ body {
 .footer .footer_menu{
   display: flex;
   margin-bottom: 25px;
-  justify-content: space-between;
+  justify-content: center;
 }
 
 .footer .footer_menu .title{
