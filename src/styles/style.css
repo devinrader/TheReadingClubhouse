@@ -75,15 +75,16 @@ body {
   display: block;
 }
 
-.footer{
+.footer {
   padding: 50px;
   font-size: 10px;
 }
 
-.footer .footer_menu{
+.footer .footer_menu {
   display: flex;
   margin-bottom: 25px;
   justify-content: center;
+  column-gap: 10px;
 }
 
 .footer .footer_menu .title{
