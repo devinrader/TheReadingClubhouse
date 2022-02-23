@@ -160,14 +160,14 @@ body {
   display: flex;
 }
 
-.offers {
+.offers-row {
   justify-content:space-around;
 }
 
 .column {
 }
 
-.column .left {
+.column-left {
   flex: 40%;
 }
 
