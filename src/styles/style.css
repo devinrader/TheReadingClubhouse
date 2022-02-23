@@ -170,5 +170,9 @@ body {
 }
 
 .icon {
+	background-color: #731472;
+	border-radius: 50%;
+	color: #fff;
   font-size: 35px;
+	padding: .5em;
 }
