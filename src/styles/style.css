@@ -101,6 +101,7 @@ body {
 .footer {
   padding: 50px;
   font-size: 10px;
+  background-color: #eaf1f7;
 }
 
 .footer .footer_menu {
@@ -154,3 +155,5 @@ body {
 .footer .social_media{
   color: #adadad;
 }
+
+
