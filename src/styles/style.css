@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
 * {
   list-style: none;
   margin: 0;
@@ -7,10 +9,11 @@
 }
 
 body {
-  font-family: Lato, Arial, Helvetica, sans-serif;
+  font-family: "Lato", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 300px;
   font-size: 15px;
+  line-height:1.5;
 }
 
 .boxed {
