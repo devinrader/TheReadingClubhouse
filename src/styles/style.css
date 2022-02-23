@@ -11,7 +11,7 @@
 body {
   font-family: "Lato", Arial, Helvetica, sans-serif;
   font-style: normal;
-  font-weight: 300px;
+  font-weight: 300;
   font-size: 15px;
   line-height:1.5;
 }
@@ -63,6 +63,7 @@ body {
   background-color: inherit;
   border: none;
   font-size: 15px;
+  font-weight: 300;
   line-height:1.5;
   margin: 0;
   outline: none;
