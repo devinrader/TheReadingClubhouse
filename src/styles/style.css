@@ -105,7 +105,7 @@ body {
 .footer .footer_menu {
   column-gap: 10px;
   display: flex;
-  font-size: 10px;
+  font-size: 12px;
   justify-content: center;
   margin-bottom: 25px;
   padding: 50px;
@@ -114,6 +114,7 @@ body {
 .footer .footer_menu .title{
   margin-top: 20px;
   margin-bottom: 10px;
+  font-weight: bold;
 }
 
 .footer .footer_menu ul li a{
