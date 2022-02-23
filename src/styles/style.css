@@ -11,6 +11,8 @@
 body {
   font-family: 'Lato', sans-serif;
   font-style: normal;
+  font-weight: 300;
+  font-size: 15px;
 }
 
 .boxed {
@@ -50,8 +52,6 @@ body {
   text-transform: uppercase;
 
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  font-size: 15px;
   line-height:1.5;
 }
 
@@ -71,8 +71,6 @@ body {
   text-transform: uppercase;
   
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  font-size: 15px;
   line-height:1.5;
 }
 
@@ -98,8 +96,6 @@ body {
   text-align: left;
 
   font-family: 'Lato', sans-serif;
-  font-weight: 300;
-  font-size: 15px;
   line-height:1.5;
 }
 
