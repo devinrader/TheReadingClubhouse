@@ -19,8 +19,17 @@ body {
 }
 
 .main-container {
-  display: grid;
-  grid-template-columns: 40% 60%;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+}
+
+.column .left {
+  flex: 40%;
 }
 
 .navbar {
