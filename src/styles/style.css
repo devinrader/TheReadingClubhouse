@@ -169,10 +169,14 @@ body {
   flex: 40%;
 }
 
+.icon-box {
+  text-align: center;
+}
+
 .icon {
-	background-color: #731472;
-	border-radius: 50%;
-	color: #fff;
+  background-color: #731472;
+  border-radius: 50%;
+  color: #fff;
   font-size: 35px;
-	padding: .5em;
+  padding: .5em;
 }
