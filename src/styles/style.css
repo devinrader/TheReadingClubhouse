@@ -11,15 +11,14 @@
 body {
   font-family: "Lato", Arial, Helvetica, sans-serif;
   font-style: normal;
-  font-weight: 300px;
   font-size: 15px;
   line-height:1.5;
 }
 
 .boxed {
-	box-shadow: 0 0 0 1px rgba(0,0,0,.04),0 0 6px rgba(0,0,0,.1);
-	max-width: 1140px;
-	margin: 0 auto;
+  box-shadow: 0 0 0 1px rgba(0,0,0,.04),0 0 6px rgba(0,0,0,.1);
+  max-width: 1140px;
+  margin: 0 auto;
 }
 
 .container {
@@ -62,6 +61,7 @@ body {
   color: white;
   background-color: inherit;
   border: none;
+  font-size: 15px;
   margin: 0;
   outline: none;
   padding: 14px 16px;
