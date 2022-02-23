@@ -53,7 +53,7 @@ body {
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
 .dropdown-content {
@@ -62,7 +62,7 @@ body {
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
-  background-color: white;
+  background-color: rgb(115, 20, 114);
 }
 
 .dropdown-content a {
