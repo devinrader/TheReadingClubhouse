@@ -99,16 +99,16 @@ body {
 }
 
 .footer {
-  padding: 50px;
-  font-size: 10px;
   background-color: #eaf1f7;
 }
 
 .footer .footer_menu {
-  display: flex;
-  margin-bottom: 25px;
-  justify-content: center;
   column-gap: 10px;
+  display: flex;
+  font-size: 10px;
+  justify-content: center;
+  margin-bottom: 25px;
+  padding: 50px;
 }
 
 .footer .footer_menu .title{
