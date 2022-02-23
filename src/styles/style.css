@@ -29,21 +29,6 @@ body {
 .main-container {
 }
 
-.row {
-  display: flex;
-}
-
-.row .offers {
-  justify-content:space-around;
-}
-
-.column {
-}
-
-.column .left {
-  flex: 40%;
-}
-
 .navbar {
   overflow: hidden;
   background-color: rgb(115, 20, 114);
@@ -170,3 +155,19 @@ body {
   background-color: rgb(115, 20, 114);
   color:white;
 }
+
+.row {
+  display: flex;
+}
+
+.row .offers {
+  justify-content:space-around;
+}
+
+.column {
+}
+
+.column .left {
+  flex: 40%;
+}
+
