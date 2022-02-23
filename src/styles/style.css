@@ -22,6 +22,7 @@ body {
   margin: 0 auto;
 }
 
+
 .container {
 }
 
@@ -30,6 +31,10 @@ body {
 
 .row {
   display: flex;
+}
+
+.row .offers {
+  justify-content:space-around;
 }
 
 .column {
