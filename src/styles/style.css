@@ -156,4 +156,7 @@ body {
   color: #adadad;
 }
 
-
+.footer .bottom-bar {
+  background-color: rgb(115, 20, 114);
+  color:white;
+}
