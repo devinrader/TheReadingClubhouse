@@ -187,11 +187,10 @@ body {
 }
 
 .icon i {
-  element {
-	width: 1em;
-	height: 1em;
-	position: relative;
-	display: block;
+  width: 1em;
+  height: 1em;
+  position: relative;
+  display: block;
 }
 
 .icon-title {
