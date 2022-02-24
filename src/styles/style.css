@@ -174,7 +174,7 @@ body {
   text-align: center;
 }
 
-.icon a {
+.icon {
   background-color: #731472;
   border-radius: 50%;
   color: #fff;
@@ -183,7 +183,7 @@ body {
   padding: .5em;
 }
 
-.icon-title h3 {
+.icon-title {
   font-family: 'Raleway', sans-serif;
   fint-size: 22px;
   font-weight: 400;
