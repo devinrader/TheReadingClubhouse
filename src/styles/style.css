@@ -186,6 +186,7 @@ body {
 }
 
 .icon-title {
+  box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
   fint-size: 22px;
   font-weight: 400;
