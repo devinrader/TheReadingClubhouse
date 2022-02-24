@@ -165,7 +165,7 @@ body {
   flex: 40%;
 }
 
-.row .icons-container {
+.icons-container {
   display:flex;
   justify-content:space-around;
 }
