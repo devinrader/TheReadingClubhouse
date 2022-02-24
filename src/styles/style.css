@@ -179,6 +179,10 @@ body {
   width: 25%;
 }
 
+.icon-box div {
+  width: 100%;
+}
+
 .icon {
   background-color: #731472;
   border-radius: 50%;
