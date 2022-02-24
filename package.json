@@ -1,0 +1,25 @@
+{
+  "name": "thereadingclubhouse",
+  "version": "1.0.0",
+  "description": "The public website for The Reading Clubhouse",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinrader/TheReadingClubhouse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devinrader/TheReadingClubhouse/issues"
+  },
+  "homepage": "https://github.com/devinrader/TheReadingClubhouse#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
