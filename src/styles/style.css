@@ -171,6 +171,7 @@ body {
 
 .icon-box {
   text-align: center;
+  max-width:
 }
 
 .icon {
@@ -179,4 +180,12 @@ body {
   color: #fff;
   font-size: 35px;
   padding: .5em;
+  margin-bottom:20px;
+}
+
+.icon-title {
+  font-family: 'Raleway', sans-serif;
+  fint-size: 22px;
+  font-weight: 400
+   margin-bottom: 13px;
 }
