@@ -186,6 +186,14 @@ body {
   padding: .5em;
 }
 
+.icon i {
+  element {
+	width: 1em;
+	height: 1em;
+	position: relative;
+	display: block;
+}
+
 .icon-title {
   box-sizing: border-box;
   font-family: 'Raleway', sans-serif;
