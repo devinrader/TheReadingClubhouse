@@ -172,11 +172,13 @@ body {
 
 .icon-box {
   text-align: center;
+  box-sizing: border-box;
 }
 
 .icon {
   background-color: #731472;
   border-radius: 50%;
+  box-sizing: border-box;
   color: #fff;
   font-size: 35px;
   margin-bottom: 20px;
