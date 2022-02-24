@@ -4,8 +4,6 @@
   "description": "The public website for The Reading Clubhouse",
   "main": "index.js",
   "scripts": {
-    "build": "eleventy",
-    "serve": "eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
