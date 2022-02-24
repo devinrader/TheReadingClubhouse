@@ -166,6 +166,7 @@ body {
 }
 
 .row .icons-container {
+  display:flex;
   justify-content:space-around;
 }
 
